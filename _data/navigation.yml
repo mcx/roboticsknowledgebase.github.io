@@ -106,6 +106,18 @@ wiki:
         url: /wiki/sensing/computer-vision-considerations/
       - title: Delphi ESR Radar
         url: /wiki/sensing/delphi-esr-radar/
+      - title: Velodyne VLP-16 LiDAR Setup Guide
+        url: /wiki/sensing/lidar-vlp16-setup/
+      - title: Point Cloud Library, 3D Sensors and Applications
+        url: /wiki/sensing/pcl/
+      - title: Photometric Calibration
+        url: /wiki/sensing/photometric-calibration/
+      - title: Speech Recognition
+        url: /wiki/sensing/speech-recognition/
+      - title: Stereo Vision in OpenCV
+        url: /wiki/sensing/opencv-stereo/
+      - title: Camera-IMU Calibration using kalibr
+        url: /wiki/sensing/camera-imu-calibration/
       - title: DWM1001 UltraWideband Positioning System
         url: /wiki/sensing/ultrawideband-beacon-positioning/
       - title: Fiducial Markers
