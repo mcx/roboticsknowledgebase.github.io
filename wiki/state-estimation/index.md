@@ -67,6 +67,12 @@ The "State Estimation" section provides a comprehensive understanding of how to 
   - Implementation details for vertices, edges, and solvers.
   - Common applications in robotic perception and mapping.
 
+- **[Running SLAM in Production - A Practitioner's Guide](/wiki/state-estimation/running-slam-in-production/)**
+  A practitioner-oriented guide to deploying monocular feature-based SLAM, with ORB-SLAM3 as the running example. Covers how to choose between SLAM families, the failure modes a deployed monocular system actually hits in the field, and how to engineer for them.
+  - When to pick monocular ORB-SLAM3 vs stereo, visual-inertial, direct, or learned methods.
+  - Indoor-vs-outdoor failure gap and the ORB front-end mechanism (FAST corners, BRIEF descriptors, anisotropic blur).
+  - Runtime monitoring with tracking success and trajectory completion alongside ATE, plus baseline validation against published numbers.
+
 ## Resources
 
 - [AMCL ROS Wiki](http://wiki.ros.org/amcl)

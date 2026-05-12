@@ -213,6 +213,8 @@ wiki:
         url: /wiki/state-estimation/cartographer-ros-integration/
       - title: External Position Estimation using OptiTrack Motion Capture System
         url: /wiki/state-estimation/optitrack-motion-capture/
+      - title: Running SLAM in Production - A Practitioner's Guide
+        url: /wiki/state-estimation/running-slam-in-production/
   - title: Programming
     url:  /wiki/programming/
     children:
