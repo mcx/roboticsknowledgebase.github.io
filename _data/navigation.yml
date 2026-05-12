@@ -266,6 +266,8 @@ wiki:
         url: /wiki/simulation/an-introduction-to-isaac-sim/
       - title: Simulating UGVs in Unity
         url: /wiki/simulation/simulating-ugvs-in-unity/
+      - title: Creating Custom Robot Models for MuJoCo
+        url: /wiki/simulation/mujoco-robot-modeling/
       - title: Creating a URDF from a CAD Model using OnShape
         url: /wiki/simulation/cad-to-urdf/
   - title: Interfacing

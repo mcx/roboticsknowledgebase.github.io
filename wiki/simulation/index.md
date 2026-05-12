@@ -30,6 +30,9 @@ This section focuses on **simulation tools, techniques, and environments** for r
 - **[Spawning and Controlling Vehicles in CARLA](/wiki/simulation/spawning-and-controlling-vehicles-in-carla/)**
   A hands-on tutorial for spawning and controlling vehicles in the CARLA simulator. Covers connecting to the CARLA server, visualizing waypoints, spawning vehicles, and using PID controllers for motion control. Demonstrates waypoint tracking with visual aids and includes example scripts for quick implementation.
 
+- **[Creating Custom Robot Models for MuJoCo](/wiki/simulation/mujoco-robot-modeling/)**
+  A end-to-end guide for building simulation-ready robot models in MuJoCo, from CAD export through physics tuning. Covers the full CAD-to-MJCF pipeline, link geometry and joint design, inertial parameter estimation, and actuator selection. Includes annotated URDF and MJCF authoring examples, contact/friction tuning, tendon constraints, mesh simplification, and a troubleshooting reference for common simulation instabilities.
+
 - **[Creating a URDF from a CAD Model using OnShape](/wiki/simulation/cad-to-urdf/)**
  Step-by-step instructions for generating URDFs from OnShape. Includes best practices for assembly cleanup in SolidWorks, defining revolute and prismatic joints, and fixing common mesh and coordinate transform errors.
 
