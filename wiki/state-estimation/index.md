@@ -67,6 +67,12 @@ The "State Estimation" section provides a comprehensive understanding of how to 
   - Implementation details for vertices, edges, and solvers.
   - Common applications in robotic perception and mapping.
 
+- **[LIO-SAM with Velocity Undistortion & Dynamic Obstacle Filtering](/wiki/state-estimation/lio-sam-velocity-undistortion-and-dynamic-filtering/)**
+  Provides a practical guide to improving LIO-SAM mapping with velocity-based motion undistortion and post-mapping dynamic obstacle filtering.
+  - Overview of LiDAR motion distortion and its impact on map quality.
+  - Integration of vehicle speed for 6-DOF point cloud undistortion.
+  - Manual dynamic obstacle removal using CloudCompare.
+
 - **[Running SLAM in Production - A Practitioner's Guide](/wiki/state-estimation/running-slam-in-production/)**
   A practitioner-oriented guide to deploying monocular feature-based SLAM, with ORB-SLAM3 as the running example. Covers how to choose between SLAM families, the failure modes a deployed monocular system actually hits in the field, and how to engineer for them.
   - When to pick monocular ORB-SLAM3 vs stereo, visual-inertial, direct, or learned methods.
@@ -86,3 +92,4 @@ The "State Estimation" section provides a comprehensive understanding of how to 
 - [Costmap2D ROS Package](http://wiki.ros.org/costmap_2d)
 - [Visual Servoing Platform (ViSP)](https://visp.inria.fr/)
 - [Search-Based Planning Lab (SBPL)](http://sbpl.net/)
+- [Autoware Distortion Corrector](https://autowarefoundation.github.io/autoware_universe/main/sensing/autoware_pointcloud_preprocessor/docs/distortion-corrector/)
