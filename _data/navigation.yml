@@ -257,6 +257,8 @@ wiki:
         url: /wiki/state-estimation/running-slam-in-production/
       - title: Complete Guide to Installing ORB SLAM3
         url: /wiki/state-estimation/orb-slam3-setup-and-troubleshoot-guide.md
+      - title: Setting Up OptiTrack Mocap System
+        url: /wiki/state-estimation/optitrack-mocap/
   - title: Programming
     url:  /wiki/programming/
     children:

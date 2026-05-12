@@ -82,6 +82,9 @@ The "State Estimation" section provides a comprehensive understanding of how to 
 - **[Complete Guide to Installing ORB SLAM3](/wiki/state-estimation/orb-slam3-setup-and-troubleshoot-guide/)**
   Installation-focused walkthrough for ORB-SLAM3 with dependency pinning, compatibility fixes, and validation steps for Ubuntu-based setups.
 
+- **[Setting Up OptiTrack Mocap System](/wiki/state-estimation/optitrack-mocap/)**
+  Setup and integration guide for OptiTrack motion capture workflows with ROS and PX4 external position estimation.
+
 ## Resources
 
 - [AMCL ROS Wiki](http://wiki.ros.org/amcl)
