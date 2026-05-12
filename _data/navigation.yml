@@ -53,6 +53,8 @@ wiki:
         url: /wiki/common-platforms/husky-interfacing-and-communication/
       - title: Interfacing with the Nvidia Orin
         url: /wiki/common-platforms/interfacing-with-nvidia-orin/
+      - title: Working with KUKA LBR Med
+        url: /wiki/common-platforms/kuka/
       - title: Khepera 4
         url: /wiki/common-platforms/khepera4/
       - title: Kinova Arms
