@@ -27,6 +27,9 @@ The "Controls & Actuation" section provides a detailed guide to implementing and
 - **[MoveIt Hybrid Planning Architecture for Motion Compensation](/wiki/actuation/moveit-hybrid-planning-architecture/)**
   Explains manager-global-local planner coordination in MoveIt hybrid planning and a practical motion compensation adaptation.
 
+- **[LED Lighting for Robotics](/wiki/actuation/led-lights/)**
+  Practical overview of LED lighting design for robotic platforms, including communication use cases, optics, power, and implementation tradeoffs.
+
 - **[Selecting the Right Motor for Your Application](/wiki/actuation/selecting-the-right-motor/)**
   Overview of motor selection tradeoffs across brushed, brushless, stepper, servo, geared, and AC motor options for robotics use cases.
 

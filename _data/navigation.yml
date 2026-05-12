@@ -187,6 +187,8 @@ wiki:
         url: /wiki/actuation/task-prioritization-control/
       - title: Drive-by-wire Conversion for Autonomous Vehicle
         url: /wiki/actuation/drive-by-wire/
+      - title: LED Lighting for Robotics
+        url: /wiki/actuation/led-lights/
       - title: Selecting the Right Motor for Your Application
         url: /wiki/actuation/selecting-the-right-motor/
   - title: Machine Learning
