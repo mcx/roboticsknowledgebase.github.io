@@ -24,6 +24,9 @@ The "Controls & Actuation" section provides a detailed guide to implementing and
 - **[MoveIt Motion Planning and HEBI Actuator Setup and Integration](/wiki/actuation/moveit-and-hebi-integration/)**
   Outlines using MoveIt in ROS for robotic motion planning and integrating it with HEBI actuators for hardware execution.
 
+- **[MoveIt Hybrid Planning Architecture for Motion Compensation](/wiki/actuation/moveit-hybrid-planning-architecture/)**
+  Explains manager-global-local planner coordination in MoveIt hybrid planning and a practical motion compensation adaptation.
+
 - **[PID Control on Arduino](/wiki/actuation/pid-control-arduino/)**
   Explains implementing PID control on Arduino platforms, including tips for tuning and integrating Kalman filters for noisy sensors.
 
