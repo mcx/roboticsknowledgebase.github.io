@@ -79,6 +79,9 @@ The "State Estimation" section provides a comprehensive understanding of how to 
   - Indoor-vs-outdoor failure gap and the ORB front-end mechanism (FAST corners, BRIEF descriptors, anisotropic blur).
   - Runtime monitoring with tracking success and trajectory completion alongside ATE, plus baseline validation against published numbers.
 
+- **[Complete Guide to Installing ORB SLAM3](/wiki/state-estimation/orb-slam3-setup-and-troubleshoot-guide/)**
+  Installation-focused walkthrough for ORB-SLAM3 with dependency pinning, compatibility fixes, and validation steps for Ubuntu-based setups.
+
 ## Resources
 
 - [AMCL ROS Wiki](http://wiki.ros.org/amcl)
