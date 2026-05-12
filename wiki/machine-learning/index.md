@@ -17,6 +17,12 @@ This section demonstrates how machine learning enhances robotic systems by enabl
 - **[Introduction to Reinforcement Learning](/wiki/machine-learning/intro-to-rl/)**
   Covers reinforcement learning concepts and Bellman equations. Discusses methods like dynamic programming, Monte Carlo, and temporal difference learning, with an emphasis on robotic applications.
 
+- **[Generative Modeling](/wiki/machine-learning/generative-modeling/)**
+  High-level overview of major generative modeling families including VAEs, GANs, flow-based models, diffusion models, and autoregressive approaches.
+
+- **[Offline Reinforcement Learning](/wiki/machine-learning/offline-rl/)**
+  Introduces offline RL, why fixed-dataset learning matters in robotics, and commonly used methods such as CQL, behavior regularization, and IQL.
+
 - **[Introduction to Diffusion Models and Diffusion Policy](/wiki/machine-learning/intro-to-diffusion/)**
   Comprehensive introduction to diffusion models and their application in robotics through diffusion policies. Covers ODE and SDE formulations, their practical implications, and how diffusion policies enable multi-modal action learning for complex robotic tasks.
 
@@ -57,5 +63,4 @@ This section demonstrates how machine learning enhances robotic systems by enabl
 - [RLlib Documentation](https://docs.ray.io/en/latest/rllib.html)
 - [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
 - [TensorRT Tutorial](https://learnopencv.com/how-to-run-inference-using-tensorrt-c-api/)
-
 
